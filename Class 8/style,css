@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GUVI SHOPPING</title>
+        <!-- External Style  -->
+        <link rel="stylesheet" href="style.css" />
+    </head>
+
+    <body>
+
+        <h1>This is a heading</h1>
+        <p>This is a paragraph.</p>
+
+        <div>
+            
+            
+        </div>
+
+        <section>
+            This is a section element
+        </section>
+
+        <article>
+            This is an article element
+        </article>
+    </body>
+</html>
+
