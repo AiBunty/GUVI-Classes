@@ -1,0 +1,43 @@
+<!--document.getElementById-->
+<!--document.getElementsByClassName-->
+
+<Style>
+    .card {
+       padding: 10px;
+        margin: 10px;
+        border: 2px solid salmon;
+
+    }
+
+    .active {
+        background-color: lightblue;
+    }
+
+    .highlight {
+        background-color: rgb(235,211,99);
+
+    }
+
+    
+</Style>
+
+<p class="item card">Item 1</p>
+<p class="item card">Item 2</p>
+<p class="item card">Item 3</p>
+<p class="item card">Item 4</p>
+
+<button onclick="changeColor()">Change Color </button>
+
+<Script>
+    function changeColor() {
+        const items = document.getElementsByClassName("item");
+        for (let i = 0; i < items.length; i++) {
+            items[i].classList.toggle("active");
+            items[i].classList.toggle("highlight");
+            items[i].style.display = "none";
+            
+        }
+    }
+
+
+</Script>
