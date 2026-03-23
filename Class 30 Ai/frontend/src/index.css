@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global body styling keeps the UI consistent across all pages. */
+body {
+  @apply min-h-screen bg-slate-950 font-display text-slate-100 antialiased;
+  background-image:
+    radial-gradient(circle at top left, rgba(255, 122, 89, 0.20), transparent 26%),
+    radial-gradient(circle at bottom right, rgba(140, 224, 212, 0.18), transparent 24%),
+    linear-gradient(135deg, #020617 0%, #081324 48%, #0f172a 100%);
+}
+
+/* The root element needs full height so routed pages can stretch. */
+#root {
+  @apply min-h-screen;
+}
+
+/* Custom input style shared by register and login forms. */
+.form-input {
+  @apply w-full rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm text-white outline-none transition duration-200 placeholder:text-slate-400 focus:border-tide focus:bg-white/10;
+}
+
+/* Shared label style for better visual rhythm. */
+.form-label {
+  @apply mb-2 block text-sm font-medium text-mist;
+}
+
+/* Shared helper style for validation feedback. */
+.form-error {
+  @apply mt-2 text-xs text-rose-300;
+}
+

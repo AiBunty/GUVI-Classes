@@ -1,0 +1,70 @@
+what is javascript 
+what is typescript 
+diff b/w javascript vs typescript 
+how to setup the typescript project 
+what are the advantages of the using typescript over javascript 
+what is typescript compiler (tsc)
+how do you compile the typescript file 
+what are the basic types in typescript
+mention the datatypes in typescript
+diff b/w any and unknown 
+what is void 
+what is type inference
+what is type annotation 
+diff b/w let, const and var in ts 
+what are the union types 
+what are literal types 
+what is tuple in typescript
+what is enum 
+what is the diff b.w number, string and boolean types 
+what is the never type 
+what is the void type 
+what is null and undefined in ts 
+what is the object type 
+what is the type alias 
+
+howo do we define the function with type annotations
+what is optional parameter in typescript
+what are default parameters 
+what is the function return type 
+what are arrow functions in typescript
+what is callback funtion typeing 
+what is "this" keyword in typescript functions 
+what is the never return type in functions 
+
+what are the interface in typescript
+diff b/w interface and type 
+what are the optional properties in interface
+what is readonly property 
+what is interface inheritance 
+waht are function interfaces 
+what are index signatures 
+can interface extend the muliple interfaces 
+how do we implment an interface in a the class 
+what is the interface vs abstarct class
+
+how do we create the class in ts 
+what are access modifiers 
+diff b/w public, private and protected 
+what is the constructor in typescript 
+what are readonly properties in classes 
+what are getters and settes 
+what is static keyword
+what is abstarct class 
+what is method overriding 
+what is method overloading in classes 
+what are genereics in typescript
+why do we use gererics 
+what is gereric interface and generic function, and generic classes
+what are the union types 
+what are the intersection types 
+what is typof type guard 
+what is keyof operator 
+what is mapped types 
+what is condtiional types 
+what are the utiity types in ts, partial, omit, pick, record
+what is tsconfig 
+what are decorators 
+what is type narrowing 
+what is discriminated union 
+what is nominal typing 

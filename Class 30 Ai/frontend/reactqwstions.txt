@@ -1,0 +1,101 @@
+what is react 
+what is vm architecture 
+diff b/w library and framework 
+is react is the library or framework
+what are the main features of react 
+what is diff b/w real dom and virtual dom 
+what is virtual dom 
+how to setup the react with cra 
+how to setup the react with vite 
+diff b/w cra and vite 
+explain the folder structure of the react
+when i run the react application what will happen 
+from where the react starts 
+can we add javascript code in react 
+how to create react typescript project 
+tsx vs jsx 
+what are the advantages of jsx and tsx 
+what are the rules of jsx 
+what is jsx fragments 
+is browser going to understand the jsx 
+what is babel 
+what are props and state
+how to pass the prop from parent component to child component
+how to pass the props from the child to parent 
+what is callback prop or function prop 
+what is key prop 
+is is possible to modify the props 
+is props are mutable or immutable 
+what is composition in props 
+what is destructuring with respect to props
+different ways to apply props in react 
+what is components 
+how to create the components in react 
+what are stateless and statefull components 
+what is hook in react 
+what is state 
+what is the syntax of the state 
+how to create the functional components 
+how to create the class components 
+is it possible to update the state 
+is state is mutable or immutable 
+how to create the higher order components in react 
+what is callback 
+what is memo
+what is usememo
+what is controlled forms 
+what is uncontrolled forms 
+diff b.w controlled vs uncontrolled forms 
+what is ref 
+what is forward ref 
+what is prop drilling and explain in detail 
+what are the disadvantages of the prop drilling 
+what are the functional life cycle methods 
+what are the class life cycle method in react 
+what are synthatic events 
+difference ways to apply the styles 
+how to apply inline, internal and external styles in react
+componentDidMount(), componentDidUpdate(), componentWillUnmount(), shouldComponentUpdate()
+how to create events in react 
+how to avoid the prop drilling problems 
+what is useContext api hook and how it solves the prop drilling problems
+what is useReducer in react 
+when to use useReducer, useState and redux 
+how to do api call in react using fetch or axios 
+what is useEffect 
+what are different ways to useEffect 
+how to clear the components in react 
+how to debug react 
+create the api using useEffect and display the data in jsx 
+explain different states in useReducer 
+what is conditional rendering 
+how to implement conditional rendering in react 
+how do we handle the forms in react 
+how to we handle the form validations in react 
+how to render the list of elements in react 
+what are error boundaries in react 
+how do we create the error boundary in react 
+what is lazy loading 
+what is eager loading vs lazy loading 
+what is pure component 
+how do we prevent the re-rendring in react 
+what is react router 
+how to implement routing in react 
+what is outlet 
+how to implement nested routing in react 
+what is browserrouter
+what is hasRouter 
+what is wildcard routing 
+what is link, navlink and redirect in react 
+what is useparms in react routing 
+what is usenavgation, useLocation 
+how to maintain the complex state in react 
+what is react redux 
+what is createAsync thunk 
+how to create the api inside the redux 
+what are portals in react 
+how to create the portals in react 
+how to improve the performace of react application 
+
+
+

@@ -1,0 +1,158 @@
+A good a good prompt contains four parts
+
+Number one role
+
+I am the junior FE developer 
+
+Number two task
+
+We have to tell the AI what is the task 
+
+create the simple Restful API for the authentication and authorization
+
+Number three context 
+
+Give the back end information
+
+The application is an E commerce platform users should be able to log in and log out Also we have to provide the registration for the users
+
+4th output format 
+
+Tell the AI the output should look
+
+Provide the proper industry standard code base with proper comments JS docs and folder the structure
+
+Good prompt 
+
+I am the junior munstech developer
+
+Create the React product listing page 
+
+Requirements
+
+Use functional components 
+Fetch the data from jason placeholder slash users
+Display the products in cards 
+Use the tailwind SSCSS
+Show the title image and price of the products
+Red loading spinner
+Provide the full code with the comments 
+
+I am junior create that to do application
+
+Front end 
+------------
+React 
+tailwind CSS
+
+Back end 
+-----------
+node JS 
+express JS
+
+Database
+----------
+Mongodb 
+Mongoose
+
+Features 
+---------
+Add to do 
+delete to do 
+mark complete
+
+Provide 
+------------
+Folder structure 
+back end code
+ fronted code 
+ API endpoints 
+ comments Explaining the each parts
+
+
+
+I am a junior developer 
+I want to make a basic Event Management Software.
+
+This software should help users create and manage events easily. 
+Users should be able to add a new event
+update event details
+delete an event
+and mark an event as completed. 
+Each event should have basic information like event name, date, time, location, and description.
+Manage Gusest
+Manage vendor
+Manage Decoration
+Manage Hosts
+Manage Food
+Manage hotels for Guests
+
+For frontend, use React and Tailwind CSS.
+
+For backend, use Node.js and Express.js.
+
+For database, use MongoDB with Mongoose.
+
+Please provide:
+Proper folder structure
+Backend code
+Frontend code
+API endpoints
+Comments explaining each part in simple language
+
+Please make the code beginner-friendly, clean, and easy to understand.
+
+
+
+
+1> Role 
+I am junior create that to do application
+
+
+2> task
+Create an App for FLight Booking
+
+3> information
+Its a Commercial website where users should be able to book FLight of diffrent destination and get a Eticket emailed to them via email with PNR
+Should have user login
+Cancelation operation
+Reschedule operation
+Admin panel login
+Manage users
+Api to connect diffrent FLight operators
+payment gateway
+Provide the full flow of all operation in md file 
+
+4>
+Provide the proper industry standard code base with proper comments JS docs and folder the structure
+
+
+Front end 
+------------
+React 
+tailwind CSS
+
+Back end 
+-----------
+node JS 
+express JS
+
+Database
+----------
+Mongodb 
+Mongoose
+
+Features 
+---------
+Add to do 
+delete to do 
+mark complete
+
+Provide 
+------------
+Folder structure 
+back end code
+ fronted code 
+ API endpoints 
+ comments Explaining the each parts
+

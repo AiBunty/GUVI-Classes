@@ -1,7 +1,14 @@
 {
   "dependencies": {
     "@types/node": "^25.2.3",
+    "axios": "^1.13.6",
+    "create": "^0.5.5",
+    "express": "^5.2.1",
+    "npm": "^11.11.0",
     "save-dev": "^0.0.1-security",
+    "vite": "^7.3.1"
+  },
+  "devDependencies": {
     "typescript": "^5.9.3"
   }
 }
